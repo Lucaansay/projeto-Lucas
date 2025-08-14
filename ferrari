@@ -1,0 +1,36 @@
+
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+    
+    .AncayMotors{
+     color: firebrick;
+ background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+    .Purosangue{ color: darkred;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .SF90{ color: darkred;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    </style>
+    
+<center><p><h1 class="AncayMotors">AncayMotors</h1></p></center>
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/242683/veiculoInfoVeiculoImagesMini/vehicle_image_1750774803_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/241795/veiculoInfoVeiculoImagesMini/vehicle_image_1750689497_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+
+
+ <center><p><h3 class="Purosangue">Ferrari purosangue v12 RS: 8,000.000,00</h3></p></center>
+ <center><p><h3 class="SF90">ferrari SF90 v8 RS: 4,000,00,000</h3></p></center>
+
+
+</body>
+</html>
