@@ -1,0 +1,35 @@
+
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+    
+    .AncayMotors{
+     color: firebrick;
+ background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+    .BMW{ color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+     .BMWm3{ color: darkred;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+    </style>
+    
+<center><p><h1 class="AncayMotors">AncayMotors</h1></p></center>
+<img src="https://www.paitomotors.com.br/media/catalog/product/f/t/ftm0c73_4.webp" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/248443/veiculoInfoVeiculoImagesMini/vehicle_image_1754957713_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/246936/veiculoInfoVeiculoImagesMini/vehicle_image_1753920759_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/235727/veiculoInfoVeiculoImagesMini/vehicle_image_1746526837_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/247592/veiculoInfoVeiculoImagesMini/vehicle_image_1754532698_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+
+ <center><p><h3 class="BMW"> BMW X5 M40i 650.000,00 </h3></p></center>
+ <center><p><h3 class="BMWm3"> BMW M3 competion 500.000,00</h3></p></center>
+
+</body>
+</html>
