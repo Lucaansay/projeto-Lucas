@@ -1,0 +1,37 @@
+
+!<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercedes</title>
+</head>
+<body>
+    <style>
+    
+    .AncayMotors{
+     color: firebrick;
+ background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+    .Mercedes{ color: darkred;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    .mercedesbenz{ color: darkred;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+     
+    </style>
+    
+<center><p><h1 class="AncayMotors">AncayMotors</h1></p></center>
+<img src="https://www.4boss.com.br/_next/image?url=https%3A%2F%2Fautocerto.com%2Ffotos%2F2147%2F2814226%2F5.jpg&w=1080&q=75" alt="">
+<img src="https://www.4boss.com.br/_next/image?url=https%3A%2F%2Fautocerto.com%2Ffotos%2F2147%2F2132583%2F25.jpg&w=1080&q=75" alt="">
+<img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/236041/veiculoInfoVeiculoImagesMini/vehicle_image_1746716068_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+ <img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/245233/veiculoInfoVeiculoImagesMini/vehicle_image_1752869856_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+ <img src="https://s3.ecompletocarros.dev/images/lojas/285/veiculos/218767/veiculoInfoVeiculoImagesMini/vehicle_image_1743565692_d41d8cd98f00b204e9800998ecf8427e.jpeg" alt="">
+ <center><p><h3 class="Mercedes">mercede-benz G63 AMG RS:2.100.000,00</h3></p></center>
+ <center><p><h3 class="mercedesbenz"> mercede-benz s 580 RS:870.000,00</h3></p></center>
+
+</body>
+</html>
