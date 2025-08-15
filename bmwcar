@@ -19,6 +19,13 @@
      .BMWm3{ color: darkred;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      }
+     .BMWX4{color: darkred; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+     
+     .bmwx3{ color: darkred;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+
+   .BMWX6{color: darkred;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
     </style>
     
 <center><p><h1 class="AncayMotors">AncayMotors</h1></p></center>
@@ -30,6 +37,8 @@
 
  <center><p><h3 class="BMW"> BMW X5 M40i 650.000,00 </h3></p></center>
  <center><p><h3 class="BMWm3"> BMW M3 competion 500.000,00</h3></p></center>
-
+<center><p><h3 class="BMWX4 "> BMW X4 RS: 300,000</h3></p></center>
+<center><p><h3 class="bmwx3"> bmw x3 RS:200,000</h3></p></center>
+<center><p><h3 class="BMWX6"> bmw x6 m RS: 600,000</h3></p></center>
 </body>
 </html>
