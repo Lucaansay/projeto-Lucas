@@ -23,9 +23,14 @@
     .caynne{color: darkred;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
 
-
+    .porsche718GT4{  color: darkred; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
   
+    .porscheGT3RS{color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
     
+    .panamera{color: darkred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
     </style>
     
 <center><p><h1 class="AncayMotors">AncayMotors</h1></p></center>
@@ -38,6 +43,8 @@
  <center><p><h3 class="Porsche">Porsche 911 carrera coupe 3.0 (992) RS: 730.000</h3></p></center>
  <center><p><h3 class="Turbona">Porsche 911 Turbo S (992) RS:1.890.000,00</h3></p></center>
 <center><p><h3 class="caynne">caynne turbo rs: 400,000</h3></p></center>
- 
+ <center><p><h3 class="porsche718GT4" ></h3>Porsche 718 GT4 RS:700,000</p></center>
+ <center><p><h3 class="porscheGT3RS"> PORSCHE 911 GT3 RS RS:4.000.00,00</h3></p></center>
+ <center><p><h3 class="panamera"> porsche panamera turismo 700,000</h3></p></center>
 </body>
 </html>
